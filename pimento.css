@@ -1,0 +1,12 @@
+p{
+    color: rgb(4, 0, 255); font-family:Arial, Helvetica, sans-serif; font-weight: bold;
+}
+h1{
+    color: red;
+}
+h2{
+    color: saddlebrown;
+}
+ul{
+    font-size:21px; font-style: oblique; font-weight: bolder; font-stretch: ultra-condensed; font-kerning: initial; color: rgb(245, 3, 104);
+}
